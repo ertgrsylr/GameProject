@@ -1,0 +1,3 @@
+//+src=ICampaignService.cs
+//+src=IGamerService.cs
+//+src=IGameService.cs

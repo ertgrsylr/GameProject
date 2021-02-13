@@ -1,0 +1,15 @@
+//+src=Manager/UserValidationManager.cs
+//+src=Manager/CampaignManager.cs
+//+src=Manager/GameManager.cs
+//+src=Manager/GamerService.cs
+//+src=Manager/NewEStateUserValidationManager.cs
+//+src=Manager/SalesManager.cs
+//+src=Abstract.cs/ICampaignService.cs
+//+src=Abstract.cs/IGamerService.cs
+//+src=Abstract.cs/IGameService.cs
+//+src=Abstract.cs/ISalesService.cs
+//+src=Abstract.cs/IUserValidationService.cs
+//+src=Entils/Campaign.cs
+//+src=Entils/Game.cs
+//+src=Entils/Gamer.cs
+//+src=Entils/Sales.cs
